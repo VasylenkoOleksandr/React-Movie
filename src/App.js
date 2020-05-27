@@ -5,6 +5,7 @@ function MovieItem() {
     <div>
       <p>Title</p>
       <p>8.0</p>
+      <p>Test</p>
     </div>
   );
 }
